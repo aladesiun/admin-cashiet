@@ -1,0 +1,14 @@
+
+.page-body{
+  margin-top: 10px!important;
+}
+.product-img{
+  width: 100%;
+}
+.img-td{
+  width: 100px!important;
+  min-width: 50px!important;
+  background-color: red;
+  border-radius: 30px;
+
+}
